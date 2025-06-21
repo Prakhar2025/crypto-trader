@@ -160,7 +160,7 @@ Licensed under the [MIT License](LICENSE)
 
 ## 📬 Contact
 
-**Author:** [Your Name](https://github.com/your-username)  
-**Email:** your.email@example.com
+**Author:** [Prakhar Shukla](https://github.com/Prakhar2025)  
+**Email:** prakhar230125@gmail.com
 
 > Made with 💖 for crypto enthusiasts!
